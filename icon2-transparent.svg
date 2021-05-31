@@ -6,11 +6,11 @@
       <stop offset="0.754" stop-color="#1b9efc"/>
       <stop offset="1" stop-color="#1b9cfc"/>
     </linearGradient>
-    <clipPath id="clip-ModifiedLogonobg">
+    <clipPath id="clip-icon1-transparent">
       <rect width="165.836" height="167.999"/>
     </clipPath>
   </defs>
-  <g id="ModifiedLogonobg" clip-path="url(#clip-ModifiedLogonobg)">
+  <g id="icon1-transparent" clip-path="url(#clip-icon1-transparent)">
     <g id="Layer_2" data-name="Layer 2" transform="translate(-830.082 -829)">
       <rect id="Rectangle_7" data-name="Rectangle 7" width="166" height="166" rx="36.459" transform="translate(830 831)" fill="url(#linear-gradient)"/>
       <g id="Group_48" data-name="Group 48">
